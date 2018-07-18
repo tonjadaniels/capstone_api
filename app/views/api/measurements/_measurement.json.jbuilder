@@ -1,0 +1,14 @@
+json.id @measurement.id
+json.name @measurement.name
+json.height @measurement.height
+json.chest @measurement.chest
+json.waist @measurement.waist
+json.hips @measurement.hips
+json.thigh @measurement.thigh
+json.calf @measurement.calf
+json.inseam @measurement.inseam
+json.upper_arm_circumference @measurement.upper_arm_circumference
+json.arm_length @measurement.arm_length
+json.shoulder_to_shoulder_width @measurement.shoulder_to_shoulder_width
+json.armpit_to_waist @measurement.armpit_to_waist
+json.waist_to_hip @measurement.waist_to_hip

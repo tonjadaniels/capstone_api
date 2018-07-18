@@ -1,0 +1,1 @@
+json.partial! @measurement, partial: "measurement", as: :measurement
